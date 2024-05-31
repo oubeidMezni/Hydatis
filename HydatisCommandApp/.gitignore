@@ -18,6 +18,7 @@ target/
 *.iws
 *.iml
 *.ipr
+application.properties:password=admin
 
 ### NetBeans ###
 /nbproject/private/
